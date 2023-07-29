@@ -8,4 +8,4 @@ This is clone of meesho.com, It is an e-commerce platform where users may purcha
 ![Screenshot (45)](https://github.com/Rameshchandru/Ecommerce-Website/assets/135995217/fb7a654c-370f-44a7-bccd-04685b3c8b75)
 
 # Instructions to run the code
-Clone my repository . Open that code in your VS code index.html Open the index.html on Live server Then you can Navigate through other pages from Landing page
+Clone my repository https://github.com/Rameshchandru/Ecommerce-Website.git . Open that code in your VS code index.html Open the index.html on Live server Then you can Navigate through other pages from Landing page
